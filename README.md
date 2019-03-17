@@ -14,4 +14,4 @@ Projekt realizowany na zajęciach
 
 cos cos
 
-|cos|cos|
+| cos | cos |
