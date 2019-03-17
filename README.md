@@ -9,5 +9,5 @@ Projekt realizowany na zajęciach
 - cos
 
 
-1.dawd
-2.awdawd
+1. dawd
+2. awdawd
