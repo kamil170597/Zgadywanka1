@@ -11,3 +11,7 @@ Projekt realizowany na zajęciach
 
 1. dawd
 2. awdawd
+
+cos cos
+
+|cos|cos|
