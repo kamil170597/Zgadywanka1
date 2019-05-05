@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraProceduralnie", "GraProceduralnie\GraProceduralnie.csproj", "{4083DECF-DC29-45E9-BE09-922662DAAAA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4083DECF-DC29-45E9-BE09-922662DAAAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4083DECF-DC29-45E9-BE09-922662DAAAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4083DECF-DC29-45E9-BE09-922662DAAAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4083DECF-DC29-45E9-BE09-922662DAAAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ADA6832-F734-47B0-A7A5-0F91174A720F}
+	EndGlobalSection
+EndGlobal
