@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using ModelGry;
 
 namespace UnitTestsProjectModelGry
 {
@@ -7,8 +8,20 @@ namespace UnitTestsProjectModelGry
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Losuj_Zakres_OK(int a,int b)
         {
+            //AAA
+            //Arrange
+            int x = a;
+            int y = b;
+
+            //Act
+            int los = Gra.Losuj(x, y);
+
+            //Assert
+            Assert.IsTrue(los >= Math.Min(x, y) && los <= Math.Max(x, y));
+
+
         }
     }
 }
